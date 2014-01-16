@@ -1,0 +1,6 @@
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\bin\testingrecieve.dll
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\bin\testingrecieve.pdb
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\obj\Debug\ResolveAssemblyReference.cache
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\obj\Debug\testingrecieve.dll
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\obj\Debug\testingrecieve.pdb
+C:\Vanso Projects\TestingDepOnAppHarbor\testingrecieve\testingrecieve\bin\Vanso.SXMP.dll
